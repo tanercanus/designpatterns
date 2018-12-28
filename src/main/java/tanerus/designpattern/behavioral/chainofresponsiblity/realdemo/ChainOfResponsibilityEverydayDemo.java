@@ -1,4 +1,4 @@
-package tanerus.designpattern.behavioral.chainofresponsiblity;
+package tanerus.designpattern.behavioral.chainofresponsiblity.realdemo;
 
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;

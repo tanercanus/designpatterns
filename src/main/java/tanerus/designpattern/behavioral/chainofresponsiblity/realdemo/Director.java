@@ -1,4 +1,4 @@
-package tanerus.designpattern.behavioral.chainofresponsiblity;
+package tanerus.designpattern.behavioral.chainofresponsiblity.realdemo;
 
 public class Director extends Handler {
 
