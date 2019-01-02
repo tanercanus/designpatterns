@@ -3,7 +3,6 @@ package tanerus.designpattern.behavioral.chainofresponsiblity.realdemo;
 public class ChainOfResponsibilityDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Director bryan = new Director();
 		VP crytal = new VP();
 		CEO jeff = new CEO();
